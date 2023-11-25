@@ -1,6 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=MohiniMehta.MohiniMehta" />
 
 <h1 align="center">
+    <img src="mohinigif.gif" alt="girl coding"/><br/><br/>
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mohini+Mehta!;" />
 </h1>
 
