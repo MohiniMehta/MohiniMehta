@@ -11,9 +11,8 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a instagram-clone app**
+ 🔭 I’m currently working on **app based audiometer app**
  
- 🌱 I’m currently learning **Dart**
 
  💬 Ask me about **Dart, React, Firebase, MongoDB... or anything**
  
