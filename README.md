@@ -10,11 +10,11 @@
 <br/>
 
 <div align="center">
+   I am a contributer in GSSOC
  
  🔭 I’m currently working on **app based audiometer app**
  
 
- 💬 Ask me about **Dart, React, Firebase, MongoDB... or anything**
  
  </div>
  
