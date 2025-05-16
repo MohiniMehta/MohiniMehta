@@ -10,9 +10,9 @@
 <br/>
 
 <div align="center">
-   I am a contributer in GSSOC
+   I am a full stack developer.
  
- 🔭 I’m currently working on **app based audiometer app**
+ 🔭 I’m currently working in **Vizuara**
  
 
  
